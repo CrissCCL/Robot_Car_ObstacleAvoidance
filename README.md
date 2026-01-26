@@ -18,7 +18,7 @@ This ToF sensor expansion board is part of the ongoing hardware upgrades for the
 The main project repository documents the overall robot platform, including mechanical setup, drive-by-wire control architecture, and system integration:
 
 - **Assisted-Trajectory Robot Car – Main Project Repository**  
-  [Assisted-Trajectory Robot Car]((https://github.com/CrissCCL/Robot_Car)
+  [Assisted-Trajectory Robot Car](https://github.com/CrissCCL/Robot_Car)
 
 This repository focuses exclusively on the **obstacle detection stage**, using an **I2C multiplexer (TCA9548A)** to reliably interface **four VL53L0X Time-of-Flight sensors** distributed around the robot chassis.
 
@@ -71,7 +71,7 @@ The following figure shows a **conceptual sensor placement** on the robot chassi
 It is a **vector-style illustration** intended only to communicate the integration idea and expected coverage zones.
 
 <p align="center">
-<img src="docs/images/robot_tof_placement.png" alt="Robot ToF sensor placement concept" width="650">
+<img src="https://github.com/user-attachments/assets/63e11900-2090-421e-bcbe-2bd8f28f5b3f" alt="Robot ToF sensor placement concept" width="650">
 </p>
 
 > Note: sensor positions may change depending on mechanical constraints, wiring and field test results.
