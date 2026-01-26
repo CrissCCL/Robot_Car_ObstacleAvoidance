@@ -8,7 +8,7 @@ The main goal is to enhance the robot’s perception and reliability for **obsta
 
 ## 📂 Contents
 - `/Hardware` → schematic, PCB design files, Gerbers, BOM/POS.
-- `/Firmware` → Teensy test code for scanning and reading ToF sensors.
+- `/mux_i2c_tof` → Teensy test code for scanning and reading ToF sensors.
 - 
 
 ## 🔗 Project Context
