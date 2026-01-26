@@ -94,7 +94,7 @@ The firmware development will include:
     </td>
     <td align="center">
         <img  alt="MUX I2C" src="https://github.com/user-attachments/assets/e6d4e026-0119-4710-9653-05f77c454a96" width="550"><br>
-      <sub> DMUX I2C – Bottom View </sub>
+      <sub> MUX I2C – Bottom View </sub>
     </td>
   </tr>
 </table>
