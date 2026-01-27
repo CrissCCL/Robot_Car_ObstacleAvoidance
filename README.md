@@ -89,11 +89,11 @@ The firmware development will include:
 <table>
   <tr>
     <td align="center">
-      <img alt="MUX I2C top" src="https://github.com/user-attachments/assets/17565b10-fafc-4e73-b824-1d7fe2370d07" width="550"><br>
+      <img alt="MUX I2C top" src="https://github.com/user-attachments/assets/a1fcf227-48e0-4eec-9de3-984254daba40" width="550"><br>
       <sub> MUX I2C – Top View </sub>
     </td>
     <td align="center">
-        <img  alt="MUX I2C" src="https://github.com/user-attachments/assets/e6d4e026-0119-4710-9653-05f77c454a96" width="550"><br>
+        <img  alt="MUX I2C" src="https://github.com/user-attachments/assets/37a9d958-c1b7-4d41-a4d9-7d0f01afe644" width="550"><br>
       <sub> MUX I2C – Bottom View </sub>
     </td>
   </tr>
