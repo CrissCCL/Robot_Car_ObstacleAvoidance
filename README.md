@@ -32,8 +32,8 @@ The goal is to provide consistent short-range distance measurements that enable 
 | TCA9548A (I2C MUX) integration concept | ✅ Completed |
 | 4× VL53L0X sensor architecture (one per channel) | ✅ Completed |
 | Pull-up strategy per channel (robust I2C) | ✅ Completed |
-| PCB schematic design | 🟡 In Progress |
-| PCB routing and layout validation | 🟡 In Progress |
+| PCB schematic design | ✅ Completed |
+| PCB routing and layout validation | ✅ Completed |
 | PCB manufacturing + assembly | ⏳ Pending |
 | Firmware: I2C MUX scan test | ⏳ Pending |
 | Firmware: multi-channel VL53L0X reading | ⏳ Pending |
