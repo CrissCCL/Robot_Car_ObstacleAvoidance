@@ -1,5 +1,13 @@
 # 🚗📡 ToF Obstacle Avoidance Expansion (VL53L0X + I2C MUX)
 
+![Embedded](https://img.shields.io/badge/Embedded-Teensy-blue)
+![C++](https://img.shields.io/badge/C++-Firmware-green)
+![Robotics](https://img.shields.io/badge/Robotics-Obstacle%20Avoidance-orange)
+![Sensors](https://img.shields.io/badge/Sensors-ToF%2FUltrasonic-lightgrey)
+![License](https://img.shields.io/badge/License-See%20repo-lightgrey)
+
+
+
 ## 📖 Overview
 This repository documents the design and validation of a custom **I2C expansion PCB** based on the **TCA9548A multiplexer**, intended to interface **four VL53L0X Time-of-Flight (ToF) sensors** for a mobile robot car platform.
 
