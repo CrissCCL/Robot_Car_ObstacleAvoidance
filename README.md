@@ -4,7 +4,7 @@
 ![C++](https://img.shields.io/badge/C++-Firmware-green)
 ![Robotics](https://img.shields.io/badge/Robotics-Obstacle%20Avoidance-orange)
 ![Sensors](https://img.shields.io/badge/Sensors-ToF%2FUltrasonic-lightgrey)
-![License](https://img.shields.io/badge/License-See%20repo-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 
 
