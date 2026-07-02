@@ -79,7 +79,7 @@ The following figure shows a **conceptual sensor placement** on the robot chassi
 It is a **vector-style illustration** intended only to communicate the integration idea and expected coverage zones.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/63e11900-2090-421e-bcbe-2bd8f28f5b3f" alt="Robot ToF sensor placement concept" width="650">
+<img src="https://github.com/user-attachments/assets/c0bfcb6f-f23d-43ed-bab7-55c5ccc5ca55" alt="Robot ToF sensor placement concept" width="650">
 </p>
 
 > Note: sensor positions may change depending on mechanical constraints, wiring and field test results.
