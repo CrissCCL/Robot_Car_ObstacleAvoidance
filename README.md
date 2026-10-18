@@ -15,7 +15,7 @@ The main goal is to enhance the robot’s perception and reliability for **obsta
 
 
 ## 📂 Contents
-- `/Hardware V2` → schematic, PCB design files, Gerbers, BOM/POS. Fixed status Reset  pin, upgrade conectiones
+- `/Hardware V2` → schematic, PCB design files, Gerbers, BOM/POS. Fixed status Reset pin, upgraded power conections.
 - `/mux_i2c_tof` → Teensy test code for scanning and reading ToF sensors.
 
 ## 🔗 Project Context
