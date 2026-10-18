@@ -15,8 +15,8 @@ The main goal is to enhance the robot’s perception and reliability for **obsta
 
 
 ## 📂 Contents
-- `/Hardware` → schematic, PCB design files, Gerbers, BOM/POS.
-- `/mux_i2c_tof` → Teensy test code for scanning and reading ToF sensors. Fixed Reset status pin.
+- `/Hardware V2` → schematic, PCB design files, Gerbers, BOM/POS. Fixed status Reset  pin, upgrade conectiones
+- `/mux_i2c_tof` → Teensy test code for scanning and reading ToF sensors.
 
 ## 🔗 Project Context
 
