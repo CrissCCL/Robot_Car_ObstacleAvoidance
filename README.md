@@ -96,16 +96,15 @@ The firmware development will include:
 <table>
   <tr>
     <td align="center">
-      <img alt="MUX I2C top" src="https://github.com/user-attachments/assets/a1fcf227-48e0-4eec-9de3-984254daba40" width="550"><br>
-      <sub> MUX I2C – Top View </sub>
+      <img alt="MUX I2C top" src="https://github.com/user-attachments/assets/9394ee04-6bd2-4f6f-bf8a-595a372ae19e" width="550"><br>
+      <sub> MUX I2C V2 – Top View </sub>
     </td>
     <td align="center">
-        <img  alt="MUX I2C" src="https://github.com/user-attachments/assets/37a9d958-c1b7-4d41-a4d9-7d0f01afe644" width="550"><br>
-      <sub> MUX I2C – Bottom View </sub>
+        <img  alt="MUX I2C" src="https://github.com/user-attachments/assets/bdc4172d-170d-4a58-95f0-7e01fbd3d34b" width="550"><br>
+      <sub> MUX I2C V2 – Bottom View </sub>
     </td>
   </tr>
 </table>
-
 
 ## ⚠️ Disclaimer
 This repository is shared for **educational and research purposes**.  
